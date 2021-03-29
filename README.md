@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello.
+
+I'm Ju­lian Bee and I de­sign and build web & mo­bile so­lu­tions, main­ly for hu­man be­ings.
+
+I'm a full­stack en­gi­neer work­ing with Type­Script, Re­act, Node.js and the wider JS ecosys­tem.
+
 
 <!--
 **skiqh/skiqh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
